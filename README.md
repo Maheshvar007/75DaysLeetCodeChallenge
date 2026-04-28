@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
