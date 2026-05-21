@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Maheshvar007/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
